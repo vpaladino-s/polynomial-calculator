@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Taller1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Taller1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Taller1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Archivo.cpp" />
+		<Unit filename="Archivo.h" />
+		<Unit filename="Arreglo_String.cpp" />
+		<Unit filename="Arreglo_String.h" />
+		<Unit filename="Boolean.cpp" />
+		<Unit filename="Boolean.h" />
+		<Unit filename="Comando.cpp" />
+		<Unit filename="Comando.h" />
+		<Unit filename="Lista_Coeficiente.cpp" />
+		<Unit filename="Lista_Coeficiente.h" />
+		<Unit filename="Polinomio.cpp" />
+		<Unit filename="Polinomio.h" />
+		<Unit filename="Polinomio_ABB.cpp" />
+		<Unit filename="Polinomio_ABB.h" />
+		<Unit filename="String.cpp" />
+		<Unit filename="String.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main_testing.cpp" />
+		<Unit filename="test/test_ListaCoeficientes.cpp" />
+		<Unit filename="test/test_ListaCoeficientes.h" />
+		<Unit filename="test/test_PolinomioABB.cpp" />
+		<Unit filename="test/test_PolinomioABB.h" />
+		<Unit filename="test/test_comando.cpp" />
+		<Unit filename="test/test_comando.h" />
+		<Unit filename="test/test_polinomio.cpp" />
+		<Unit filename="test/test_polinomio.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

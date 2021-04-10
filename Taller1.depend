@@ -1,0 +1,1045 @@
+# depslib dependency file v1.0
+1549667099 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\boolean.cpp
+	"Boolean.h"
+
+1550317038 "
+
+1549667035 c:\users\verónica\documents\facultad!\ude\taller1\taller1\boolean.h
+	<stdio.h>
+
+1550264367 
+
+1550330699 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\main.cpp
+	"Comando.h"
+
+1550263821 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\string.cpp
+	"String.h"
+
+1550263788 c:\users\verónica\documents\facultad!\ude\taller1\taller1\string.h
+	"Boolean.h"
+
+1549670241 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\coeficiente.cpp
+	"Coeficiente.h"
+
+1549670241 te.h"
+
+1549672576 c:\users\verónica\documents\facultad!\ude\taller1\taller1\coeficiente.h
+	"Boolean.h"
+
+1549670730 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1550274593 .h"
+
+1550265502 c:\users\verónica\documents\facultad!\ude\taller1\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1549671191 tring.h"
+
+1549671191 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1550264367 c:\users\verónica\documents\facultad!\ude\taller1\taller1\arreglo_string.h
+	"String.h"
+
+1549671554 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1550330660 _ABB.h"
+
+1550265493 c:\users\verónica\documents\facultad!\ude\taller1\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1550265224 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\comando.cpp
+	"Comando.h"
+
+1550330660 c:\users\verónica\documents\facultad!\ude\taller1\taller1\comando.h
+	"Polinomio_ABB.h"
+
+1550330725 c:\users\verónica\documents\facultad!\ude\taller1\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1550317038 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\archivo.cpp
+	"Archivo.h"
+
+1550274593 c:\users\verónica\documents\facultad!\ude\taller1\taller1\archivo.h
+	"Polinomio.h"
+
+1550330602 source:c:\users\verónica\documents\facultad!\ude\taller1\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1550330602 ficiente.h"
+
+1550317038 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Archivo.cpp
+	"Archivo.h"
+
+1550274593 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Archivo.h
+	"Polinomio.h"
+
+1550354579 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1550355663 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Lista_Coeficiente.h
+	"Boolean.h"
+
+1549667035 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Boolean.h
+	<stdio.h>
+
+1550264367 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Arreglo_String.h
+	"String.h"
+
+1550263788 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/String.h
+	"Boolean.h"
+
+1549671191 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Arreglo_String.cpp
+	"Arreglo_String.h"
+
+1549667099 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Boolean.cpp
+	"Boolean.h"
+
+1550265224 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Comando.cpp
+	"Comando.h"
+
+1550330660 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Comando.h
+	"Polinomio_ABB.h"
+
+1550265493 /home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Polinomio_ABB.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1550358038 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/main.cpp
+	"Comando.h"
+
+1549671554 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Polinomio_ABB.cpp
+	"Polinomio_ABB.h"
+
+1550263821 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/String.cpp
+	"String.h"
+
+1550359594 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Lista_Coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1550357878 source:/home/gp2/Documentos/Licenciatura/Taller_1/Taller1/Polinomio.cpp
+	"Polinomio.h"
+
+1551682888 source:e:\taller_1\taller1\archivo.cpp
+	"Archivo.h"
+
+1551682888 e:\taller_1\taller1\archivo.h
+	"Polinomio.h"
+
+1551682892 e:\taller_1\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551682894 e:\taller_1\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1551682888 e:\taller_1\taller1\boolean.h
+	<stdio.h>
+
+1551736130 e:\taller_1\taller1\arreglo_string.h
+	"String.h"
+
+1552001688 e:\taller_1\taller1\string.h
+	"Boolean.h"
+
+1551736184 source:e:\taller_1\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1551682888 source:e:\taller_1\taller1\boolean.cpp
+	"Boolean.h"
+
+1552003887 source:e:\taller_1\taller1\comando.cpp
+	"Comando.h"
+
+1551682890 e:\taller_1\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551682894 e:\taller_1\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551725900 source:e:\taller_1\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552001926 source:e:\taller_1\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1551682892 source:e:\taller_1\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551682892 source:e:\taller_1\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552001926 source:e:\taller_1\taller1\string.cpp
+	"String.h"
+
+1550538461 source:e:\taller_1\taller1\test_polinomio.cpp
+	"test_polinomio.h"
+
+1550416043 e:\taller_1\taller1\test_polinomio.h
+	"Polinomio.h"
+
+1551956776 source:e:\taller_1\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1551682896 e:\taller_1\taller1\test\test_comando.h
+	"../Comando.h"
+
+1551682896 source:e:\taller_1\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1551682896 e:\taller_1\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1551682896 e:\taller_1\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1551682896 source:e:\taller_1\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552258076 source:c:\users\verónica\downloads\taller1\archivo.cpp
+	"Archivo.h"
+
+1552257986 c:\users\verónica\downloads\taller1\archivo.h
+	"Polinomio.h"
+
+1552237620 c:\users\verónica\downloads\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1552253580 c:\users\verónica\downloads\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1552237620 c:\users\verónica\downloads\taller1\boolean.h
+	<stdio.h>
+
+1552237620 c:\users\verónica\downloads\taller1\arreglo_string.h
+	"String.h"
+
+1552354098 c:\users\verónica\downloads\taller1\string.h
+	"Boolean.h"
+
+1552237620 source:c:\users\verónica\downloads\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1552237620 source:c:\users\verónica\downloads\taller1\boolean.cpp
+	"Boolean.h"
+
+1551920347 source:c:\users\verónica\downloads\taller1\comando.cpp
+	"Comando.h"
+
+1552237620 c:\users\verónica\downloads\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1552237620 c:\users\verónica\downloads\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1552237620 source:c:\users\verónica\downloads\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552355100 source:c:\users\verónica\downloads\taller1\main.cpp
+	"Comando.h"
+
+1552237630 c:\users\verónica\downloads\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1552237630 c:\users\verónica\downloads\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1552237630 c:\users\verónica\downloads\taller1\test\test_comando.h
+	"../Comando.h"
+
+1552237620 source:c:\users\verónica\downloads\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1552244032 source:c:\users\verónica\downloads\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552351304 source:c:\users\verónica\downloads\taller1\string.cpp
+	"String.h"
+
+1552244532 source:c:\users\verónica\downloads\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1552237630 source:c:\users\verónica\downloads\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552237630 source:c:\users\verónica\downloads\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1552238154 source:c:\users\verónica\downloads\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1552237632 c:\users\verónica\downloads\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551682898 e:\taller_1\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551682896 source:e:\taller_1\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1551220996 source:e:\taller_1\taller1_veronica\taller1\archivo.cpp
+	"Archivo.h"
+
+1550274592 e:\taller_1\taller1_veronica\taller1\archivo.h
+	"Polinomio.h"
+
+1551223284 e:\taller_1\taller1_veronica\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551042396 e:\taller_1\taller1_veronica\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1549667034 e:\taller_1\taller1_veronica\taller1\boolean.h
+	<stdio.h>
+
+1550957968 e:\taller_1\taller1_veronica\taller1\arreglo_string.h
+	"String.h"
+
+1550952802 e:\taller_1\taller1_veronica\taller1\string.h
+	"Boolean.h"
+
+1550959038 source:e:\taller_1\taller1_veronica\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1549667098 source:e:\taller_1\taller1_veronica\taller1\boolean.cpp
+	"Boolean.h"
+
+1551309969 source:e:\taller_1\taller1_veronica\taller1\comando.cpp
+	"Comando.h"
+
+1551143244 e:\taller_1\taller1_veronica\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551054196 e:\taller_1\taller1_veronica\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551406999 source:e:\taller_1\taller1_veronica\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1551309238 source:e:\taller_1\taller1_veronica\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1550708552 e:\taller_1\taller1_veronica\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1550708638 e:\taller_1\taller1_veronica\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1550539292 e:\taller_1\taller1_veronica\taller1\test\test_comando.h
+	"../Comando.h"
+
+1550922624 e:\taller_1\taller1_veronica\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551223841 source:e:\taller_1\taller1_veronica\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551400605 source:e:\taller_1\taller1_veronica\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1550961032 source:e:\taller_1\taller1_veronica\taller1\string.cpp
+	"String.h"
+
+1551047816 source:e:\taller_1\taller1_veronica\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1550877486 source:e:\taller_1\taller1_veronica\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1550538460 source:e:\taller_1\taller1_veronica\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1550964750 source:e:\taller_1\taller1_veronica\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1551654221 source:e:\taller_1\taller1\taller1\archivo.cpp
+	"Archivo.h"
+
+1551648259 e:\taller_1\taller1\taller1\archivo.h
+	"Polinomio.h"
+
+1551476244 e:\taller_1\taller1\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551042396 e:\taller_1\taller1\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1549667034 e:\taller_1\taller1\taller1\boolean.h
+	<stdio.h>
+
+1550957968 e:\taller_1\taller1\taller1\arreglo_string.h
+	"String.h"
+
+1551558837 e:\taller_1\taller1\taller1\string.h
+	"Boolean.h"
+
+1551543530 source:e:\taller_1\taller1\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1549667098 source:e:\taller_1\taller1\taller1\boolean.cpp
+	"Boolean.h"
+
+1551649934 source:e:\taller_1\taller1\taller1\comando.cpp
+	"Comando.h"
+
+1551555574 e:\taller_1\taller1\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551654008 e:\taller_1\taller1\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551650971 source:e:\taller_1\taller1\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1551649673 source:e:\taller_1\taller1\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1550708552 e:\taller_1\taller1\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1550708638 e:\taller_1\taller1\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1550539292 e:\taller_1\taller1\taller1\test\test_comando.h
+	"../Comando.h"
+
+1550922624 e:\taller_1\taller1\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551641147 source:e:\taller_1\taller1\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551653978 source:e:\taller_1\taller1\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1551559266 source:e:\taller_1\taller1\taller1\string.cpp
+	"String.h"
+
+1551047816 source:e:\taller_1\taller1\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1550877486 source:e:\taller_1\taller1\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1550538460 source:e:\taller_1\taller1\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1550964750 source:e:\taller_1\taller1\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1551654220 source:c:\users\verónica\downloads\taller1\taller1\archivo.cpp
+	"Archivo.h"
+
+1551648258 c:\users\verónica\downloads\taller1\taller1\archivo.h
+	"Polinomio.h"
+
+1551476244 c:\users\verónica\downloads\taller1\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551042396 c:\users\verónica\downloads\taller1\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1549667034 c:\users\verónica\downloads\taller1\taller1\boolean.h
+	<stdio.h>
+
+1550957968 c:\users\verónica\downloads\taller1\taller1\arreglo_string.h
+	"String.h"
+
+1551558836 c:\users\verónica\downloads\taller1\taller1\string.h
+	"Boolean.h"
+
+1551543530 source:c:\users\verónica\downloads\taller1\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1549667098 source:c:\users\verónica\downloads\taller1\taller1\boolean.cpp
+	"Boolean.h"
+
+1551699864 source:c:\users\verónica\downloads\taller1\taller1\comando.cpp
+	"Comando.h"
+
+1551555574 c:\users\verónica\downloads\taller1\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551654008 c:\users\verónica\downloads\taller1\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551699232 source:c:\users\verónica\downloads\taller1\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1551696867 source:c:\users\verónica\downloads\taller1\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1550708552 c:\users\verónica\downloads\taller1\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1550708638 c:\users\verónica\downloads\taller1\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1550539292 c:\users\verónica\downloads\taller1\taller1\test\test_comando.h
+	"../Comando.h"
+
+1550922624 c:\users\verónica\downloads\taller1\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551641146 source:c:\users\verónica\downloads\taller1\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551699737 source:c:\users\verónica\downloads\taller1\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1551559266 source:c:\users\verónica\downloads\taller1\taller1\string.cpp
+	"String.h"
+
+1551047816 source:c:\users\verónica\downloads\taller1\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1550877486 source:c:\users\verónica\downloads\taller1\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1550538460 source:c:\users\verónica\downloads\taller1\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1550964750 source:c:\users\verónica\downloads\taller1\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1551682888 source:e:\taller1\archivo.cpp
+	"Archivo.h"
+
+1551682888 e:\taller1\archivo.h
+	"Polinomio.h"
+
+1551682892 e:\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551682894 e:\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1551682888 e:\taller1\boolean.h
+	<stdio.h>
+
+1551736130 e:\taller1\arreglo_string.h
+	"String.h"
+
+1551735208 e:\taller1\string.h
+	"Boolean.h"
+
+1551736184 source:e:\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1551682888 source:e:\taller1\boolean.cpp
+	"Boolean.h"
+
+1551920348 source:e:\taller1\comando.cpp
+	"Comando.h"
+
+1551682890 e:\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551682894 e:\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551725900 source:e:\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1551956776 source:e:\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1551682896 e:\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1551682896 e:\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1551682896 e:\taller1\test\test_comando.h
+	"../Comando.h"
+
+1551682898 e:\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551682892 source:e:\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551682892 source:e:\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1551956776 source:e:\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1551682896 source:e:\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1551682896 source:e:\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1551682896 source:e:\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1551955762 source:e:\taller1\string.cpp
+	"String.h"
+
+1552258076 source:f:\taller1\archivo.cpp
+	"Archivo.h"
+
+1552257986 f:\taller1\archivo.h
+	"Polinomio.h"
+
+1552237620 f:\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1552253580 f:\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1552237620 f:\taller1\boolean.h
+	<stdio.h>
+
+1552237620 f:\taller1\arreglo_string.h
+	"String.h"
+
+1552354098 f:\taller1\string.h
+	"Boolean.h"
+
+1552237620 source:f:\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1552237620 source:f:\taller1\boolean.cpp
+	"Boolean.h"
+
+1552391566 source:f:\taller1\comando.cpp
+	"Comando.h"
+
+1552237620 f:\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1552237620 f:\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1552237620 source:f:\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552355100 source:f:\taller1\main.cpp
+	"Comando.h"
+
+1552237630 f:\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1552237630 f:\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1552237630 f:\taller1\test\test_comando.h
+	"../Comando.h"
+
+1552237632 f:\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1552237620 source:f:\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1552244032 source:f:\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552244532 source:f:\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1552237630 source:f:\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552237630 source:f:\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1552238154 source:f:\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1552351304 source:f:\taller1\string.cpp
+	"String.h"
+
+1551682888 source:d:\taller1\archivo.cpp
+	"Archivo.h"
+
+1551682888 d:\taller1\archivo.h
+	"Polinomio.h"
+
+1551682892 d:\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1551682894 d:\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1551682888 d:\taller1\boolean.h
+	<stdio.h>
+
+1551736130 d:\taller1\arreglo_string.h
+	"String.h"
+
+1552001688 d:\taller1\string.h
+	"Boolean.h"
+
+1551736184 source:d:\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1551682888 source:d:\taller1\boolean.cpp
+	"Boolean.h"
+
+1552000914 source:d:\taller1\comando.cpp
+	"Comando.h"
+
+1551682890 d:\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1551682894 d:\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1551725900 source:d:\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552001048 source:d:\taller1\main.cpp
+	"Comando.h"
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1551682896 d:\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1551682896 d:\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1551682896 d:\taller1\test\test_comando.h
+	"../Comando.h"
+
+1551682898 d:\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1551682892 source:d:\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1551682892 source:d:\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1551956776 source:d:\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1551682896 source:d:\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1551682896 source:d:\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1551682896 source:d:\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1552001876 source:d:\taller1\string.cpp
+	"String.h"
+
+1552258074 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\archivo.cpp
+	"Archivo.h"
+
+1552257984 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\archivo.h
+	"Polinomio.h"
+
+1552237619 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1552253578 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1552237619 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\boolean.h
+	<stdio.h>
+
+1552237619 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\arreglo_string.h
+	"String.h"
+
+1552354097 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\string.h
+	"Boolean.h"
+
+1552237619 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1552237619 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\boolean.cpp
+	"Boolean.h"
+
+1552355066 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\comando.cpp
+	"Comando.h"
+
+1552237619 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1552237619 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1552237619 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552355099 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\main.cpp
+	"Comando.h"
+
+1552237629 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1552237629 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1552237629 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_comando.h
+	"../Comando.h"
+
+1552237630 c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1552237619 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1552244030 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552351303 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\string.cpp
+	"String.h"
+
+1552244531 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1552237629 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552237629 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1552238152 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1552238066 source:c:\users\gp2\desktop\taller1_07-03-19_21-35\taller1\main_testing.cpp
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1552238068 source:c:\users\verónica\downloads\taller1\main_testing.cpp
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1552238068 source:f:\taller1\main_testing.cpp
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1552391810 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\archivo.cpp
+	"Archivo.h"
+
+1552391810 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\archivo.h
+	"Polinomio.h"
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\boolean.h
+	<stdio.h>
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\arreglo_string.h
+	"String.h"
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\string.h
+	"Boolean.h"
+
+1552391810 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\boolean.cpp
+	"Boolean.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552434173 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\main.cpp
+	"Comando.h"
+
+1552434199 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1552391811 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\main_testing.cpp
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1552391813 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1552391813 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1552391813 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_comando.h
+	"../Comando.h"
+
+1552391813 c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552391811 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\string.cpp
+	"String.h"
+
+1552434219 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1552434551 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552391813 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1552391813 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
+1552434432 source:c:\users\gp2\desktop\taller1-12-03-8-55\taller1\comando.cpp
+	"Comando.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\archivo.cpp
+	"Archivo.h"
+
+1552391812 c:\users\elena\downloads\taller1\archivo.h
+	"Polinomio.h"
+
+1552391812 c:\users\elena\downloads\taller1\polinomio.h
+	"Lista_Coeficiente.h"
+	"Arreglo_String.h"
+
+1552391812 c:\users\elena\downloads\taller1\lista_coeficiente.h
+	"Boolean.h"
+
+1552391812 c:\users\elena\downloads\taller1\boolean.h
+	<stdio.h>
+
+1552391812 c:\users\elena\downloads\taller1\arreglo_string.h
+	"String.h"
+
+1552391812 c:\users\elena\downloads\taller1\string.h
+	"Boolean.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\arreglo_string.cpp
+	"Arreglo_String.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\boolean.cpp
+	"Boolean.h"
+
+1552434434 source:c:\users\elena\downloads\taller1\comando.cpp
+	"Comando.h"
+
+1552434200 c:\users\elena\downloads\taller1\comando.h
+	"Polinomio_ABB.h"
+	"Arreglo_String.h"
+
+1552391812 c:\users\elena\downloads\taller1\polinomio_abb.h
+	"Polinomio.h"
+	"Archivo.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\lista_coeficiente.cpp
+	"Lista_Coeficiente.h"
+
+1552434174 source:c:\users\elena\downloads\taller1\main.cpp
+	"Comando.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\main_testing.cpp
+	"test/test_polinomio.h"
+	"test/test_ListaCoeficientes.h"
+	"test/test_comando.h"
+	"test/test_polinomioABB.h"
+
+1552391814 c:\users\elena\downloads\taller1\test\test_polinomio.h
+	"../Polinomio.h"
+
+1552391814 c:\users\elena\downloads\taller1\test\test_listacoeficientes.h
+	"../Lista_Coeficiente.h"
+
+1552391814 c:\users\elena\downloads\taller1\test\test_comando.h
+	"../Comando.h"
+
+1552391814 c:\users\elena\downloads\taller1\test\test_polinomioabb.h
+	"../Polinomio_ABB.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\polinomio.cpp
+	"Polinomio.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\polinomio_abb.cpp
+	"Polinomio_ABB.h"
+
+1552391812 source:c:\users\elena\downloads\taller1\string.cpp
+	"String.h"
+
+1552434220 source:c:\users\elena\downloads\taller1\test\test_comando.cpp
+	"test_comando.h"
+
+1552434552 source:c:\users\elena\downloads\taller1\test\test_listacoeficientes.cpp
+	"test_ListaCoeficientes.h"
+
+1552391814 source:c:\users\elena\downloads\taller1\test\test_polinomio.cpp
+	"test_polinomio.h"
+
+1552391814 source:c:\users\elena\downloads\taller1\test\test_polinomioabb.cpp
+	"test_PolinomioABB.h"
+
